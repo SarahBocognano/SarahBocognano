@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SarahBocognano, 30y, living in Cannes
-- 👀 I’m interested in ... ReactJS/React Native/NodeJS/Express/Javascript/HTML/CSS
+- 👀 I’m interested in ... ReactJS/React Native/NodeJS/Express/VueJS/Kendo/Nunjucks/Jquery/Javascript/HTML/CSS
 - 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... sarah.bocognano@gmail.com  // or // https://www.linkedin.com/in/sarah-bocognano-b7751a211/
