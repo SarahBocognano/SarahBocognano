@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @SarahBocognano, 30y, living in Cannes
+- 👋 Hi, I’m @SarahBocognano, 31y, living in Clermont-Ferrand
 - 👀 I’m interested in ... 
 - * React 
 - * NodeJS
 - * VueJS
 - * TypeScript
 - * GraphQL
-- * Elastic 
+- * Elastic
+- * Python
 - 🌱 I’m currently learning ... JAVA / Unreal Engine 4
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... sarah.bocognano@gmail.com  // or // https://www.linkedin.com/in/sarah-bocognano-b7751a211/
