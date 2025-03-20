@@ -7,8 +7,7 @@
 - * GraphQL
 - * Elastic
 - * Python
-- 🌱 I’m currently learning ... JAVA / Unreal Engine 4
-- 💞️ I’m looking to collaborate on ... 
+- 🌱 I’m currently learning ... Unreal Engine 4
 - 📫 How to reach me ... sarah.bocognano@gmail.com  // or // https://www.linkedin.com/in/sarah-bocognano-b7751a211/
 
 <!---
